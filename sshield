@@ -36,8 +36,8 @@
 
 # 
 # Automatic Updates
-# 1: ipconfig, net-tools, sed, gawk, git, yum-security, mod_antiloris
-# 2: sshield, ipconfig, net-tools, sed, gawk, git, yum-security, mod_antiloris
+# 1: ipconfig, net-tools, sed, gawk, git, mod_antiloris
+# 2: sshield, ipconfig, net-tools, sed, gawk, git, mod_antiloris
 update=1
 
 # Public Interfaces
